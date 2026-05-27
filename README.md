@@ -1,4 +1,4 @@
-# 46755 Renewables in Electricity Markets — Assignment 2
+# Market Participation Strategy — Wind Farm & Flexible Load
 
 Stochastic offering strategy optimization for a price-taking wind farm in day-ahead and balancing markets, and optimal reserve bidding for a flexible load in the FCR-D UP ancillary service market.
 
@@ -20,7 +20,7 @@ pip install pandas numpy matplotlib
 ## Project Structure
 
 ```
-Group_8_Assignment_2/
+market-participation/
 ├── model/
 │   ├── Step_1.py              # Tasks 1.1–1.4: stochastic LP, cross-validation, CVaR
 │   └── Step_2.py              # Tasks 2.1–2.3: ALSO-X, CVaR approach, P90 sweep
